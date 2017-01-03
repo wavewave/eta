@@ -49,7 +49,9 @@ body {
 .wy-nav-top {
     background: #32bebe;
 }
-
+.wy-nav-top i{
+    margin-top: 10px;
+}
 @font-face {
     font-family: "Hasklig";
     font-style: normal;
