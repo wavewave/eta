@@ -1,3 +1,6 @@
+nix:
+  enable: true
+  
 flags: {}
 extra-package-dbs: []
 packages:
