@@ -19,7 +19,7 @@ let
               path-io process shake stdenv text time transformers turtle
               unix unix-compat zip
 
-              shake
+              shake parsec network-uri HTTP
             ]);
 
 in
